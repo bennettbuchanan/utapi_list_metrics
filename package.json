@@ -1,0 +1,16 @@
+{
+  "name": "utapi_list_metrics",
+  "version": "1.0.0",
+  "description": "A script for listing metrics from Utapi with command line arguments.",
+  "main": "list_metrics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.12.2",
+    "arsenal": "scality/Arsenal",
+    "werelogs": "scality/werelogs"
+  }
+}
