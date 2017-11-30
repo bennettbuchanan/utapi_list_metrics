@@ -30,3 +30,9 @@ node list_metrics.js \
 --host 127.0.0.1 \
 --port 8100
 ```
+
+# Extract tape archive:
+
+```
+tar -xf utapi_list_metrics.tar 
+``` 
